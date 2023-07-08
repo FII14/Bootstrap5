@@ -66,3 +66,5 @@ Elemen HTML adalah segalanya mulai dari tag awal hingga tag akhir:
 Tujuan peramban web (Chrome, Edge, Firefox, Safari) adalah membaca dokumen HTML dan menampilkannya dengan benar.
 
 Peramban tidak menampilkan tag HTML, tetapi menggunakannya untuk menentukan cara menampilkan dokumen.
+
+![](https://github.com/FII14/Bootstrap5/blob/main/gambar/20230709_003853.jpg)
